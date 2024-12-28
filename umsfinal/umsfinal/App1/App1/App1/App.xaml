@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="ToDoApp.MainPage"
+             Padding="10">
+
+    <StackLayout>
+
+        <!-- Title of the App -->
+        <Label Text="To-Do List" 
+               FontSize="24" 
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"/>
+
+        <!-- Entry field for task input -->
+        <Entry x:Name="taskEntry" 
+               Placeholder="Enter task" 
+               Margin="0,10"/>
+
+        <!-- Button to add task -->
+        <Button Text="Add Task" 
+                Clicked="OnAddButtonClicked" 
+                Margin="0,10"/>
+
+        <!-- ListView to display tasks -->
+        <ListView x:Name="tasksListView" 
+                  VerticalOptions="FillAndExpand">
+            <!-- Define the ItemTemplate directly inside the ListView -->
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+    </StackLayout>
+</ContentPage>

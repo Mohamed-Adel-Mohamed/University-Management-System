@@ -1,0 +1,15 @@
+D:\umsfinal\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+D:\umsfinal\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+D:\umsfinal\App1\App1\App1\bin\Debug\netstandard2.0\ref\App1.dll
+D:\umsfinal\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+D:\umsfinal\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.AssemblyReference.cache
+D:\umsfinal\App1\App1\App1\obj\Debug\netstandard2.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+D:\umsfinal\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\umsfinal\App1\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\umsfinal\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+D:\umsfinal\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+D:\umsfinal\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+D:\umsfinal\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\umsfinal\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+D:\umsfinal\App1\App1\App1\obj\Debug\netstandard2.0\refint\App1.dll
+D:\umsfinal\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
